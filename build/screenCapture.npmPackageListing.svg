@@ -1,0 +1,115 @@
+<svg height="1790" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1790" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-11 09:50:08 +0000   375962 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-11 09:50:08 +0000    70908 bytes  History.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-11 09:50:08 +0000     1062 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-11 09:50:08 +0000    28224 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-11 09:50:08 +0000       41 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-11 09:50:08 +0000     4902 bytes  lib/clean.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-11 09:50:08 +0000      133 bytes  lib/optimizer/hack.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-11 09:50:08 +0000      132 bytes  lib/optimizer/level-0/optimize.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-11 09:50:08 +0000    21931 bytes  lib/optimizer/level-1/optimize.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-11 09:50:08 +0000     4491 bytes  lib/optimizer/level-1/shorten-hex.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-11 09:50:08 +0000     1408 bytes  lib/optimizer/level-1/shorten-hsl.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-11 09:50:08 +0000      450 bytes  lib/optimizer/level-1/shorten-rgb.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-11 09:50:08 +0000      506 bytes  lib/optimizer/level-1/sort-selectors.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-11 09:50:08 +0000      177 bytes  lib/optimizer/level-1/tidy-at-rule.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-11 09:50:08 +0000      691 bytes  lib/optimizer/level-1/tidy-block.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-11 09:50:08 +0000     6942 bytes  lib/optimizer/level-1/tidy-rules.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-11 09:50:08 +0000    11222 bytes  lib/optimizer/level-2/break-up.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-11 09:50:08 +0000     6567 bytes  lib/optimizer/level-2/can-override.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-11 09:50:08 +0000      772 bytes  lib/optimizer/level-2/clone.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-11 09:50:08 +0000    19485 bytes  lib/optimizer/level-2/compactable.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-11 09:50:08 +0000     1944 bytes  lib/optimizer/level-2/extract-properties.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-11 09:50:08 +0000      316 bytes  lib/optimizer/level-2/invalid-property-error.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-11 09:50:08 +0000     6414 bytes  lib/optimizer/level-2/is-mergeable.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-11 09:50:08 +0000     2024 bytes  lib/optimizer/level-2/merge-adjacent.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-11 09:50:08 +0000     3142 bytes  lib/optimizer/level-2/merge-media-queries.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-11 09:50:08 +0000     2793 bytes  lib/optimizer/level-2/merge-non-adjacent-by-body\</tspan>
+<tspan x="10" y="442">.js</tspan>
+<tspan x="10" y="458"> 26.  2017-04-11 09:50:08 +0000     2565 bytes  lib/optimizer/level-2/merge-non-adjacent-by-sele\</tspan>
+<tspan x="10" y="474">ctor.js</tspan>
+<tspan x="10" y="490"> 27.  2017-04-11 09:50:08 +0000     3574 bytes  lib/optimizer/level-2/optimize.js</tspan>
+<tspan x="10" y="506"> 28.  2017-04-11 09:50:08 +0000      780 bytes  lib/optimizer/level-2/properties/every-values-pa\</tspan>
+<tspan x="10" y="522">ir.js</tspan>
+<tspan x="10" y="538"> 29.  2017-04-11 09:50:08 +0000      953 bytes  lib/optimizer/level-2/properties/find-component-\</tspan>
+<tspan x="10" y="554">in.js</tspan>
+<tspan x="10" y="570"> 30.  2017-04-11 09:50:08 +0000      204 bytes  lib/optimizer/level-2/properties/has-inherit.js</tspan>
+<tspan x="10" y="586"> 31.  2017-04-11 09:50:08 +0000      681 bytes  lib/optimizer/level-2/properties/is-component-of\</tspan>
+<tspan x="10" y="602">.js</tspan>
+<tspan x="10" y="618"> 32.  2017-04-11 09:50:08 +0000     4047 bytes  lib/optimizer/level-2/properties/merge-into-shor\</tspan>
+<tspan x="10" y="634">thands.js</tspan>
+<tspan x="10" y="650"> 33.  2017-04-11 09:50:08 +0000     1455 bytes  lib/optimizer/level-2/properties/optimize.js</tspan>
+<tspan x="10" y="666"> 34.  2017-04-11 09:50:08 +0000    13345 bytes  lib/optimizer/level-2/properties/override-proper\</tspan>
+<tspan x="10" y="682">ties.js</tspan>
+<tspan x="10" y="698"> 35.  2017-04-11 09:50:08 +0000      346 bytes  lib/optimizer/level-2/properties/overrides-non-c\</tspan>
+<tspan x="10" y="714">omponent-shorthand.js</tspan>
+<tspan x="10" y="730"> 36.  2017-04-11 09:50:08 +0000     1279 bytes  lib/optimizer/level-2/properties/populate-compon\</tspan>
+<tspan x="10" y="746">ents.js</tspan>
+<tspan x="10" y="762"> 37.  2017-04-11 09:50:08 +0000      370 bytes  lib/optimizer/level-2/properties/understandable.\</tspan>
+<tspan x="10" y="778">js</tspan>
+<tspan x="10" y="794"> 38.  2017-04-11 09:50:08 +0000      449 bytes  lib/optimizer/level-2/properties/vendor-prefixes\</tspan>
+<tspan x="10" y="810">.js</tspan>
+<tspan x="10" y="826"> 39.  2017-04-11 09:50:08 +0000     5152 bytes  lib/optimizer/level-2/reduce-non-adjacent.js</tspan>
+<tspan x="10" y="842"> 40.  2017-04-11 09:50:08 +0000      619 bytes  lib/optimizer/level-2/remove-duplicate-font-at-r\</tspan>
+<tspan x="10" y="858">ules.js</tspan>
+<tspan x="10" y="874"> 41.  2017-04-11 09:50:08 +0000      661 bytes  lib/optimizer/level-2/remove-duplicate-media-que\</tspan>
+<tspan x="10" y="890">ries.js</tspan>
+<tspan x="10" y="906"> 42.  2017-04-11 09:50:08 +0000      978 bytes  lib/optimizer/level-2/remove-duplicates.js</tspan>
+<tspan x="10" y="922"> 43.  2017-04-11 09:50:08 +0000     3738 bytes  lib/optimizer/level-2/reorderable.js</tspan>
+<tspan x="10" y="938"> 44.  2017-04-11 09:50:08 +0000      319 bytes  lib/optimizer/level-2/restore-with-components.js</tspan>
+<tspan x="10" y="954"> 45.  2017-04-11 09:50:08 +0000     7874 bytes  lib/optimizer/level-2/restore.js</tspan>
+<tspan x="10" y="970"> 46.  2017-04-11 09:50:08 +0000    12443 bytes  lib/optimizer/level-2/restructure.js</tspan>
+<tspan x="10" y="986"> 47.  2017-04-11 09:50:08 +0000      596 bytes  lib/optimizer/level-2/rules-overlap.js</tspan>
+<tspan x="10" y="1002"> 48.  2017-04-11 09:50:08 +0000      806 bytes  lib/optimizer/level-2/specificities-overlap.js</tspan>
+<tspan x="10" y="1018"> 49.  2017-04-11 09:50:08 +0000     2482 bytes  lib/optimizer/level-2/specificity.js</tspan>
+<tspan x="10" y="1034"> 50.  2017-04-11 09:50:08 +0000      397 bytes  lib/optimizer/level-2/tidy-rule-duplicates.js</tspan>
+<tspan x="10" y="1050"> 51.  2017-04-11 09:50:08 +0000      244 bytes  lib/optimizer/remove-unused.js</tspan>
+<tspan x="10" y="1066"> 52.  2017-04-11 09:50:08 +0000     1721 bytes  lib/optimizer/restore-from-optimizing.js</tspan>
+<tspan x="10" y="1082"> 53.  2017-04-11 09:50:08 +0000    10951 bytes  lib/optimizer/validator.js</tspan>
+<tspan x="10" y="1098"> 54.  2017-04-11 09:50:08 +0000     4878 bytes  lib/optimizer/wrap-for-optimizing.js</tspan>
+<tspan x="10" y="1114"> 55.  2017-04-11 09:50:08 +0000     4370 bytes  lib/options/compatibility.js</tspan>
+<tspan x="10" y="1130"> 56.  2017-04-11 09:50:08 +0000     4372 bytes  lib/options/format.js</tspan>
+<tspan x="10" y="1146"> 57.  2017-04-11 09:50:08 +0000      476 bytes  lib/options/inline-request.js</tspan>
+<tspan x="10" y="1162"> 58.  2017-04-11 09:50:08 +0000      141 bytes  lib/options/inline-timeout.js</tspan>
+<tspan x="10" y="1178"> 59.  2017-04-11 09:50:08 +0000      197 bytes  lib/options/inline.js</tspan>
+<tspan x="10" y="1194"> 60.  2017-04-11 09:50:08 +0000     5257 bytes  lib/options/optimization-level.js</tspan>
+<tspan x="10" y="1210"> 61.  2017-04-11 09:50:08 +0000      151 bytes  lib/options/rebase-to.js</tspan>
+<tspan x="10" y="1226"> 62.  2017-04-11 09:50:08 +0000      129 bytes  lib/options/rebase.js</tspan>
+<tspan x="10" y="1242"> 63.  2017-04-11 09:50:08 +0000     1965 bytes  lib/options/rounding-precision.js</tspan>
+<tspan x="10" y="1258"> 64.  2017-04-11 09:50:08 +0000     7956 bytes  lib/reader/apply-source-maps.js</tspan>
+<tspan x="10" y="1274"> 65.  2017-04-11 09:50:08 +0000      854 bytes  lib/reader/extract-import-url-and-media.js</tspan>
+<tspan x="10" y="1290"> 66.  2017-04-11 09:50:08 +0000     1299 bytes  lib/reader/input-source-map-tracker.js</tspan>
+<tspan x="10" y="1306"> 67.  2017-04-11 09:50:08 +0000     2067 bytes  lib/reader/is-allowed-resource.js</tspan>
+<tspan x="10" y="1322"> 68.  2017-04-11 09:50:08 +0000     3857 bytes  lib/reader/load-original-sources.js</tspan>
+<tspan x="10" y="1338"> 69.  2017-04-11 09:50:08 +0000     1867 bytes  lib/reader/load-remote-resource.js</tspan>
+<tspan x="10" y="1354"> 70.  2017-04-11 09:50:08 +0000      173 bytes  lib/reader/match-data-uri.js</tspan>
+<tspan x="10" y="1370"> 71.  2017-04-11 09:50:08 +0000      198 bytes  lib/reader/normalize-path.js</tspan>
+<tspan x="10" y="1386"> 72.  2017-04-11 09:50:08 +0000    12933 bytes  lib/reader/read-sources.js</tspan>
+<tspan x="10" y="1402"> 73.  2017-04-11 09:50:08 +0000      446 bytes  lib/reader/rebase-local-map.js</tspan>
+<tspan x="10" y="1418"> 74.  2017-04-11 09:50:08 +0000      330 bytes  lib/reader/rebase-remote-map.js</tspan>
+<tspan x="10" y="1434"> 75.  2017-04-11 09:50:08 +0000     2593 bytes  lib/reader/rebase.js</tspan>
+<tspan x="10" y="1450"> 76.  2017-04-11 09:50:08 +0000      132 bytes  lib/reader/restore-import.js</tspan>
+<tspan x="10" y="1466"> 77.  2017-04-11 09:50:08 +0000     2701 bytes  lib/reader/rewrite-url.js</tspan>
+<tspan x="10" y="1482"> 78.  2017-04-11 09:50:08 +0000      479 bytes  lib/tokenizer/marker.js</tspan>
+<tspan x="10" y="1498"> 79.  2017-04-11 09:50:08 +0000      723 bytes  lib/tokenizer/token.js</tspan>
+<tspan x="10" y="1514"> 80.  2017-04-11 09:50:08 +0000    20777 bytes  lib/tokenizer/tokenize.js</tspan>
+<tspan x="10" y="1530"> 81.  2017-04-11 09:50:08 +0000      241 bytes  lib/utils/clone-array.js</tspan>
+<tspan x="10" y="1546"> 82.  2017-04-11 09:50:08 +0000      239 bytes  lib/utils/format-position.js</tspan>
+<tspan x="10" y="1562"> 83.  2017-04-11 09:50:08 +0000      156 bytes  lib/utils/has-protocol.js</tspan>
+<tspan x="10" y="1578"> 84.  2017-04-11 09:50:08 +0000      183 bytes  lib/utils/is-data-uri-resource.js</tspan>
+<tspan x="10" y="1594"> 85.  2017-04-11 09:50:08 +0000      152 bytes  lib/utils/is-http-resource.js</tspan>
+<tspan x="10" y="1610"> 86.  2017-04-11 09:50:08 +0000      157 bytes  lib/utils/is-https-resource.js</tspan>
+<tspan x="10" y="1626"> 87.  2017-04-11 09:50:08 +0000      143 bytes  lib/utils/is-import.js</tspan>
+<tspan x="10" y="1642"> 88.  2017-04-11 09:50:08 +0000      166 bytes  lib/utils/is-remote-resource.js</tspan>
+<tspan x="10" y="1658"> 89.  2017-04-11 09:50:08 +0000      772 bytes  lib/utils/natural-compare.js</tspan>
+<tspan x="10" y="1674"> 90.  2017-04-11 09:50:08 +0000      729 bytes  lib/utils/override.js</tspan>
+<tspan x="10" y="1690"> 91.  2017-04-11 09:50:08 +0000     1113 bytes  lib/utils/split.js</tspan>
+<tspan x="10" y="1706"> 92.  2017-04-11 09:50:08 +0000     6656 bytes  lib/writer/helpers.js</tspan>
+<tspan x="10" y="1722"> 93.  2017-04-11 09:50:08 +0000     1111 bytes  lib/writer/one-time.js</tspan>
+<tspan x="10" y="1738"> 94.  2017-04-11 09:50:08 +0000     1291 bytes  lib/writer/simple.js</tspan>
+<tspan x="10" y="1754"> 95.  2017-04-11 09:50:08 +0000     2924 bytes  lib/writer/source-maps.js</tspan>
+<tspan x="10" y="1770"> 96.  2017-04-11 09:50:08 +0000     2902 bytes  package.json</tspan>
+</text>
+</svg>
