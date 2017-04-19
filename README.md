@@ -1,4 +1,7 @@
-# test coverage for  [clean-css (v4.0.12)](https://github.com/jakubpawlowicz/clean-css)  [![npm package](https://img.shields.io/npm/v/npmtest-clean-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clean-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clean-css.svg)](https://travis-ci.org/npmtest/node-npmtest-clean-css)
+# npmtest-clean-css
+
+#### basic test coverage for  [clean-css (v4.0.12)](https://github.com/jakubpawlowicz/clean-css)  [![npm package](https://img.shields.io/npm/v/npmtest-clean-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clean-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clean-css.svg)](https://travis-ci.org/npmtest/node-npmtest-clean-css)
+
 #### A well-tested CSS minifier
 
 [![NPM](https://nodei.co/npm/clean-css.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/clean-css)
